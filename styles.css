@@ -1,0 +1,19 @@
+nav {
+    display: flex;
+    background-color: #000001;
+    color: #ffffff;
+    justify-content: space-between;
+    padding: 10px;
+
+}
+nav p{
+    color: pink;
+    font-size: 40px;
+    font-weight: 700;
+}
+a{
+    display: inline-block;
+    margin-right: 5px;
+    color: white;
+    text-decoration: none;
+}
